@@ -1,6 +1,6 @@
 # Utang Tracker 🇵🇭
 
-A debt-tracking dApp built for **Stellar Journey to Mastery**.
+A debt-tracking website built for **Stellar Journey to Mastery**.
 
 Log who owes you what, settle it (fully or partially) with a real XLM payment on Stellar Testnet, and keep a history of every payment — no more "sige, babayaran ko na yan" with no receipts.
 
