@@ -1,12 +1,12 @@
 # Utang Tracker 🇵🇭
 
-A debt-tracking dApp built for **Stellar Journey to Mastery — White Belt (Level 1)**.
+A debt-tracking dApp built for **Stellar Journey to Mastery**.
 
 Log who owes you what, settle it (fully or partially) with a real XLM payment on Stellar Testnet, and keep a history of every payment — no more "sige, babayaran ko na yan" with no receipts.
 
 ## Features
 
-**Core (Level 1 requirements)**
+**Core**
 - Connect / disconnect a Freighter wallet
 - Fetch and display the connected wallet's XLM balance
 - Send an XLM payment on Testnet
